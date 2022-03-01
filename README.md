@@ -1,1 +1,25 @@
+
 # Bankmangementsystem
+              BANK MANGEMENT SYSTEAM
+1. INSTALL PYTHON 3 VERSION.........
+2. INSTALL MYSQL AND PYTHON mysql-python-connector
+
+open cmd and check py version
+
+pip install mysql-python-connector
+pip install tabulate
+
+
+MAIN MENU CONTAINS
+
+1.DEPOSIT
+2.WITHDRAW
+3.BALANCE
+4.ADMIN CONSOLE
+5.ADMIN CREATION
+
+WHERE ADMIN CONSOLE CONSISTS OF 
+1.NEW BANK ACCOUNT CREATION
+2.TO VIEW ALL ACCOUNTS DETAILS
+3.CLOSE AN ACCOUNT
+
